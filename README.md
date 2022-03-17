@@ -3,7 +3,6 @@ Testcase for this bug: https://code.djangoproject.com/ticket/33582.
 
 To reproduce the issue:
 
-# setup #
 ```
 # install Poetry
 # taken from https://python-poetry.org/docs/#installation, see there if problems
