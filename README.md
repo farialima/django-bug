@@ -1,4 +1,5 @@
 
+Testcase for this bug: https://code.djangoproject.com/ticket/33582.
 
 To reproduce the issue:
 
